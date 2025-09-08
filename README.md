@@ -4,7 +4,7 @@
 
 # Run and deploy Sonics.ai
 
-This contains everything you need to run your app locally.
+This contains everything you need to run the app locally.
 
 ## Run Locally
 
