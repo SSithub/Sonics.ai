@@ -1,5 +1,13 @@
+# Sonics.ai
 
-# A brief write-up (max 200 words) detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
+- [A brief write-up detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
+](#a-brief-write-up)
+- [Architecture Diagram](#architecture-diagram)
+- [Run and Deploy](#run-and-deploy)
+- [Watch Demo](https://youtu.be/gZ8NMynV-vA)
+
+# A brief write-up
+## detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
 
 <br>
 
@@ -8,12 +16,14 @@
 >- Furthermore, the model's capacity for iterative image editing powers the "Update" and "Tweak" functionalities. Users can refine character designs or adjust entire panels using natural language, providing a fluid and intuitive creative workflow.
 >- Finally, the most critical feature is its sophisticated in-image text rendering. The application relies on the model to flawlessly render narration and dialogue within speech bubbles and caption boxes directly onto the panel, transforming disparate assets into a finished comic page. These features are not just supplemental; they are the engine driving the creation of every visual element from character design to the final page.
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 
-# Run and deploy Sonics.ai
+# Architecture Diagram
+
+![Architecture Diagram](architecture/architecture.png)
+
+
+# Run and deploy
 
 This contains everything you need to run the app locally.
 
@@ -27,3 +37,6 @@ This contains everything you need to run the app locally.
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+
