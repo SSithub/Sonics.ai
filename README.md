@@ -1,14 +1,14 @@
 # Sonics.ai
 
-- [A brief write-up detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
+- [📝 A brief write-up detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
 ](#a-brief-write-up)
-- [Architecture Diagram](#architecture-diagram)
-- [Run and Deploy](#run-and-deploy)
-- <a href="https://youtu.be/gZ8NMynV-vA">Watch Demo Video</a>
-- <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing">View Sample comic generated</a>
+- [🗂️ Architecture Diagram](#architecture-diagram)
+- [🚀 Run and Deploy](#run-and-deploy)
+- ▶️ <a href="https://youtu.be/gZ8NMynV-vA">Watch Demo Video</a>
+- 📚 <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing">View Sample Comic generated</a>
 ---
 
-## A brief write-up
+## A brief write-up 📝
 ***detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.***
 
 <br>
@@ -41,7 +41,7 @@ Its core feature is the ability to process a combination of multiple input image
 
 ---
 
-## Architecture Diagram
+## Architecture Diagram 🗂️
 
 ![Architecture Diagram](architecture/architecture.png)
 
@@ -49,7 +49,7 @@ Its core feature is the ability to process a combination of multiple input image
 
 ---
 
-## Run and deploy
+## Run and deploy 🚀
 
 This contains everything you need to run the app locally.
 
