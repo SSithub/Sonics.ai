@@ -1,12 +1,32 @@
 # Sonics.ai 📚💬
 
-- [📝 A brief write-up detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
-](#a-brief-write-up)
-- [🗂️ Architecture Diagram](#architecture-diagram)
-- [🚀 Run and Deploy](#run-and-deploy)
-- ▶️ <a href="https://youtu.be/gZ8NMynV-vA">Watch Demo Video</a>
-- 📚 <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing">View Sample Comic generated</a>
+#### *Comics & Scripts - Generator / Editor*
+
+<br>
+
+*"An application that uses Gemini nano banana, Flash & Imagen to generate a multi-scene anime comic from a user's prompt.
+Users can create a storyline, design characters with AI, refine them, and finally generate the full comic strip - pdf, scripts."*
+
+<br>
+
+
+> 📝 [ A brief write-up detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
+](#a-brief-write-up-)
+>
+> 🗂️ [ Architecture Diagram](#architecture-diagram-%EF%B8%8F)
+>
+> 🚀 [ Run and Deploy](#run-and-deploy-)
+>
+>
+> ▶️ <a href="https://youtu.be/gZ8NMynV-vA"> Watch Demo Video</a>
+>
+>  📚 <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing"> View Sample Comic generated</a>
+
+<br>
+
 ---
+
+<br>
 
 ## A brief write-up 📝
 ***detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.***
@@ -41,6 +61,8 @@ Its core feature is the ability to process a combination of multiple input image
 
 ---
 
+<br>
+
 ## Architecture Diagram 🗂️
 
 ![Architecture Diagram](architecture/architecture.png)
@@ -48,6 +70,8 @@ Its core feature is the ability to process a combination of multiple input image
 <br>
 
 ---
+
+<br>
 
 ## Run and deploy 🚀
 
