@@ -1,4 +1,4 @@
-# Sonics.ai
+# Sonics.ai 📚💬
 
 - [📝 A brief write-up detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
 ](#a-brief-write-up)
