@@ -26,6 +26,8 @@ Users can create a storyline, design characters with AI, refine them, and finall
 
 <br>
 
+<br>
+
 ## A brief write-up 📝
 ***detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.***
 
@@ -59,9 +61,13 @@ Its core feature is the ability to process a combination of multiple input image
 
 <br>
 
+<br>
+
 ## Architecture Diagram 🗂️
 
 ![Architecture Diagram](architecture/architecture.png)
+
+<br>
 
 <br>
 
