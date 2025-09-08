@@ -1,0 +1,5 @@
+{
+  "name": "Sonics",
+  "description": "An application that uses Gemini and Imagen to generate a multi-scene anime comic from a user's prompt. Users can create a storyline, design characters with AI, refine them, and finally generate the full comic strip.",
+  "requestFramePermissions": []
+}
