@@ -4,7 +4,8 @@
 ](#a-brief-write-up)
 - [Architecture Diagram](#architecture-diagram)
 - [Run and Deploy](#run-and-deploy)
-- [Watch Demo](https://youtu.be/gZ8NMynV-vA)
+- <a href="https://youtu.be/gZ8NMynV-vA" target="_blank">Watch Demo Video</a>
+
 
 ---
 
