@@ -5,7 +5,7 @@
 - [Architecture Diagram](#architecture-diagram)
 - [Run and Deploy](#run-and-deploy)
 - <a href="https://youtu.be/gZ8NMynV-vA" target="_blank">Watch Demo Video</a>
-
+- [Sample comics generated](#sample-comics-generated)
 
 ---
 
@@ -42,6 +42,8 @@ Its core feature is the ability to process a combination of multiple input image
 
 ![Architecture Diagram](architecture/architecture.png)
 
+<br>
+
 ---
 
 ## Run and deploy
@@ -59,7 +61,13 @@ This contains everything you need to run the app locally.
 3. Run the app:
    `npm run dev`
 
+<br>
+
 ---
+
+## Sample comics generated
+
+
 
 
 
