@@ -9,7 +9,7 @@
 
 ---
 
-### A brief write-up
+## A brief write-up
 ***detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.***
 
 <br>
@@ -38,13 +38,13 @@ Its core feature is the ability to process a combination of multiple input image
 
 ---
 
-### Architecture Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](architecture/architecture.png)
 
 ---
 
-### Run and deploy
+## Run and deploy
 
 This contains everything you need to run the app locally.
 
