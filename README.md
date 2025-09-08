@@ -6,8 +6,10 @@
 - [Run and Deploy](#run-and-deploy)
 - [Watch Demo](https://youtu.be/gZ8NMynV-vA)
 
-# A brief write-up
-## detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
+---
+
+### A brief write-up
+#### detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
 
 <br>
 
@@ -16,18 +18,19 @@
 >- Furthermore, the model's capacity for iterative image editing powers the "Update" and "Tweak" functionalities. Users can refine character designs or adjust entire panels using natural language, providing a fluid and intuitive creative workflow.
 >- Finally, the most critical feature is its sophisticated in-image text rendering. The application relies on the model to flawlessly render narration and dialogue within speech bubbles and caption boxes directly onto the panel, transforming disparate assets into a finished comic page. These features are not just supplemental; they are the engine driving the creation of every visual element from character design to the final page.
 
+---
 
-
-# Architecture Diagram
+### Architecture Diagram
 
 ![Architecture Diagram](architecture/architecture.png)
 
+---
 
-# Run and deploy
+### Run and deploy
 
 This contains everything you need to run the app locally.
 
-## Run Locally
+##### Run Locally
 
 **Prerequisites:**  Node.js
 
@@ -37,6 +40,8 @@ This contains everything you need to run the app locally.
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+---
 
 
 
