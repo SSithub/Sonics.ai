@@ -39,7 +39,7 @@ The SONICS.ai application is fundamentally built leveraging the advanced multi-m
 
 Its core feature is the ability to process a combination of multiple input images and a detailed text prompt.
 
-### Intelligent Panel Composition to ensure Character consistencies throughout the Comic
+### *Intelligent Panel Composition to ensure Character consistencies throughout the Comic*
 
 <br>
 
@@ -50,7 +50,7 @@ Its core feature is the ability to process a combination of multiple input image
 
 <br>
 
-### User validations and natural language tweaks
+### *User validations and natural language tweaks*
 
 <br>
 
