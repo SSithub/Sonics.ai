@@ -24,8 +24,6 @@ Users can create a storyline, design characters with AI, refine them, and finall
 
 <br>
 
----
-
 <br>
 
 ## A brief write-up 📝
@@ -59,8 +57,6 @@ Its core feature is the ability to process a combination of multiple input image
 
 <br>
 
----
-
 <br>
 
 ## Architecture Diagram 🗂️
@@ -68,8 +64,6 @@ Its core feature is the ability to process a combination of multiple input image
 ![Architecture Diagram](architecture/architecture.png)
 
 <br>
-
----
 
 <br>
 
