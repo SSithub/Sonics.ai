@@ -12,20 +12,23 @@
 <br>
 
 
+
+>
 > 📝 [ A brief write-up detailing which Gemini 2.5 Flash Image (nano-banana) features were used and how they are central to the application.
 ](#a-brief-write-up-)
 >
 > 🗂️ [ Architecture Diagram](#architecture-diagram-%EF%B8%8F)
 >
 > 🚀 [ Run and Deploy](#run-and-deploy-)
-
-<br>
-
+>
+> <br>
+>
 > ▶️ <a href="https://youtu.be/gZ8NMynV-vA"> Watch Demo Video</a>
 >
 > 🎬 <a href="https://www.youtube.com/watch?v=5lH7KmiENYs"> Watch Comic Video</a>
 >
 >  📚 <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing"> View Comic pdf</a>
+>
 
 <br>
 
@@ -38,7 +41,7 @@
 
 <br>
 
-The app's core feature is the ability to process a combination of multiple input images and a detailed text prompt and to make independent edits in scene, characters, dialogues in the comic.
+> The app's core feature uses ***GEMINI nano-banana's*** **multi-modal, multi-image** capabilities to process a combination of multiple input images and a detailed text prompt and to make independent edits in scene, characters, dialogues in the comic.
 
 <br>
 
@@ -108,5 +111,11 @@ This contains everything you need to run the app locally.
  
 *' Customize ' & ' Optimize '* every step with *' Gemini nano banana '  - powered by Google AI studio.*
 
+> ▶️ <a href="https://youtu.be/gZ8NMynV-vA"> Watch Demo Video</a>
+>
+> 🎬 <a href="https://www.youtube.com/watch?v=5lH7KmiENYs"> Watch Comic Video</a>
+>
+>  📚 <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing"> View Comic pdf</a>
 
+<br>
 
