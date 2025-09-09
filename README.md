@@ -75,7 +75,7 @@ The app's core feature is the ability to process a combination of multiple input
 
 ## Architecture Diagram 🗂️
 
-![Architecture Diagram](architecture/architecture.png)
+![Architecture Diagram](architecture/architecture_.png)
 
 <br>
 
