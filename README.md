@@ -1,11 +1,13 @@
-# Sonics.ai 📚💬
+# Sonics.ai 📚🎬
 
 #### *Comics & Scripts - Generator / Editor*
 
 <br>
 
-*"An application that uses Gemini nano banana, Flash & Imagen to generate a multi-scene anime comic from a user's prompt.
-Users can create a storyline, design characters with AI, refine them, and finally generate the full comic strip - pdf, scripts."*
+***Sonics.ai** generates **character consistent comic** sequence panels with a single prompt & empowers users to **edit scenes, characters, dialogues - independently, precisely** in natural language by leveraging the multi-modal, multi-image capabilities of the **Gemini 2.5 Flash Image model** (nano banana)*
+
+*Users can create a storyline, design characters with AI, refine them, and finally generate the full comic strip - pdf, scripts."*
+
 
 <br>
 
@@ -16,11 +18,14 @@ Users can create a storyline, design characters with AI, refine them, and finall
 > 🗂️ [ Architecture Diagram](#architecture-diagram-%EF%B8%8F)
 >
 > 🚀 [ Run and Deploy](#run-and-deploy-)
->
->
+
+<br>
+
 > ▶️ <a href="https://youtu.be/gZ8NMynV-vA"> Watch Demo Video</a>
 >
->  📚 <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing"> View Sample Comic generated</a>
+> 🎬 <a href="https://www.youtube.com/watch?v=5lH7KmiENYs"> Watch Comic Video</a>
+>
+>  📚 <a href="https://drive.google.com/file/d/1YEf60wesaHiawA1DJhbl1bR7pppOkPGn/view?usp=sharing"> View Comic pdf</a>
 
 <br>
 
@@ -33,11 +38,9 @@ Users can create a storyline, design characters with AI, refine them, and finall
 
 <br>
 
-The SONICS.ai application is fundamentally built leveraging the advanced multi-modal capabilities of the **Gemini 2.5 Flash Image model (nano banana)** (gemini-2.5-flash-image-preview). This model is central to the app's entire visual creation process.
+The app's core feature is the ability to process a combination of multiple input images and a detailed text prompt and to make independent edits in scene, characters, dialogues in the comic.
 
 <br>
-
-Its core feature is the ability to process a combination of multiple input images and a detailed text prompt.
 
 <br>
 
@@ -48,7 +51,8 @@ Its core feature is the ability to process a combination of multiple input image
 > SONICS.ai leverages this ***unique capability of nano-banana model*** to ensure **CHARACTER CONSISTENICES** ***across all panels of the comic*** by ensuring **intelligent image composition** for panel creation **logic**.
 >- The model input is a background & character images (that were validated by user).
 >- ***The nano-bana model is then prompted to artfully compose these elements into a cohesive comic panel, following complex instructions regarding character poses, text dialogues.***
->- And it clearly surpasses the expectations.
+
+... And it clearly surpasses the expectations.
 
 <br>
 
@@ -56,8 +60,12 @@ Its core feature is the ability to process a combination of multiple input image
 
 <br>
 
->- Furthermore, the model's capacity for iterative image editing powers the "Update" and "Tweak" functionalities. Users can refine character designs or adjust entire panels using natural language, providing a fluid and intuitive creative workflow.
->- Finally, the most critical feature is its sophisticated in-image text rendering. The application relies on the model to flawlessly render narration and dialogue within speech bubbles and caption boxes directly onto the panel, transforming disparate assets into a finished comic page. These features are not just supplemental; they are the engine driving the creation of every visual element from character design to the final page.
+>- Furthermore, the model's capacity for iterative image editing powers the "Update" and "Tweak" functionalities. 
+>- Users can refine character designs **independently & precisely** or adjust entire panels using natural language, providing a fluid and intuitive creative workflow.
+>- One of the most critical feature is **its sophisticated in-image rendering** .The application relies on the model to flawlessly render narration and dialogue within speech bubbles and caption boxes directly onto the panel, transforming disparate assets into a finished comic page. 
+
+...these features are not just supplemental; they are the engine driving the creation of every visual element from character design to the final page.
+
 
 <br>
 
@@ -92,9 +100,13 @@ This contains everything you need to run the app locally.
 
 <br>
 
----
+<br>
 
+<br>
 
+***. . .  Bring your stories to life... build and tell stories dynamically  🖌️***
+ 
+*' Customize ' & ' Optimize '* every step with *' Gemini nano banana '  - powered by Google AI studio.*
 
 
 
